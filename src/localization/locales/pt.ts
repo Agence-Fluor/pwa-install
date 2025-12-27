@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Role para baixo até "Adicionar à Tela de Início"`,
 'sa5ef80b4bb9b39f8': `Menos`,
 'sba52286c21552a4e': `Instale no dispositivo para uma melhor experiência e mais fácil acesso.`,
-'sc16e00a7a8b2fde2': `Voltar`,
 'scdaf4bbff76674c8': `Adicionar à Tela de Início`,
 'se0e473adfda8066c': `Abra no seu navegador principal`,
 'se740f75b95a51807': `Adicione ao Dock para uma melhor experiência e mais fácil acesso.`,

@@ -54,10 +54,6 @@
   <source>Press More if no Share icon</source>
   <target>공유 아이콘이 없으면 더보기 누르기</target>
 </trans-unit>
-<trans-unit id="sc16e00a7a8b2fde2">
-  <source>Back</source>
-  <target>뒤로</target>
-</trans-unit>
 <trans-unit id="s681e399d63311fba">
   <source>Show Gallery</source>
   <target>갤러리 표시</target>

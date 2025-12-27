@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Desplázate hacia abajo hasta "Añadir a pantalla de inicio"`,
 'sa5ef80b4bb9b39f8': `Menos`,
 'sba52286c21552a4e': `Instálalo en tu dispositivo para una experiencia amplia y acceso fácil.`,
-'sc16e00a7a8b2fde2': `Atrás`,
 'scdaf4bbff76674c8': `Añadir a pantalla de inicio`,
 'se0e473adfda8066c': `Abre en tu navegador principal`,
 'se740f75b95a51807': `Añádelo a tu Dock para una experiencia amplia y acceso fácil.`,

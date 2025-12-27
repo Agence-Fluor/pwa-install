@@ -54,10 +54,6 @@
         <source>Press More if no Share icon</source>
         <target>Appuyez sur Plus s'il n'y a pas d'icône Partager</target>
       </trans-unit>
-      <trans-unit id="sc16e00a7a8b2fde2">
-        <source>Back</source>
-        <target>Retour</target>
-      </trans-unit>
       <trans-unit id="s681e399d63311fba">
         <source>Show Gallery</source>
         <target>Afficher la galerie</target>

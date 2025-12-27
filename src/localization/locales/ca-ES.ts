@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Desplaça't cap avall fins a "Afegeix a la pantalla d'inici"`,
 'sa5ef80b4bb9b39f8': `Menys`,
 'sba52286c21552a4e': `Instal·la'l al teu dispositiu per a una àmplia experiència i fàcil accés.`,
-'sc16e00a7a8b2fde2': `Enrere`,
 'scdaf4bbff76674c8': `Afegeix a pantalla d'inici`,
 'se0e473adfda8066c': `Obre al navegador principal`,
 'se740f75b95a51807': `Afegeix-lo al teu Dock per a una àmplia experiència i fàcil accés.`,

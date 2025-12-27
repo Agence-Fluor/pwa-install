@@ -73,7 +73,7 @@ export class PWAInstallElement extends LitElement {
 	/** @internal */
 	private _howToRequested = false;
 	/** @internal */
-	private _galleryRequested = false;
+	private _galleryRequested = true;
 	/** @internal */
 	private _install = {
 		handleEvent: () => {
@@ -135,8 +135,11 @@ export class PWAInstallElement extends LitElement {
 	private _toggleHowTo = {
         handleEvent: () => {
 			this._howToRequested = !this._howToRequested;
-			if (this._howToRequested && this._galleryRequested)
+			if (this._howToRequested)
 				this._galleryRequested = false;
+			else 
+				this._galleryRequested = true;
+
 			this.requestUpdate();
 
 			if (this._howToRequested) {

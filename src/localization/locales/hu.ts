@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Görgessen le a "Hozzáadás a kezdőképernyőhöz" lehetőséghez`,
 'sa5ef80b4bb9b39f8': `Kevesebb`,
 'sba52286c21552a4e': `Telepítse eszközére a teljes élmény és a könnyű hozzáférés érdekében.`,
-'sc16e00a7a8b2fde2': `Vissza`,
 'scdaf4bbff76674c8': `Hozzáadás a kezdőképernyőhöz`,
 'se0e473adfda8066c': `Nyissa meg a fő böngészőjében`,
 'se740f75b95a51807': `Adja hozzá a Dock-hoz a teljes élmény és a könnyű hozzáférés érdekében.`,

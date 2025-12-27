@@ -54,10 +54,6 @@
         <source>Press More if no Share icon</source>
         <target>如果没有分享图标，请点击更多</target>
       </trans-unit>
-      <trans-unit id="sc16e00a7a8b2fde2">
-        <source>Back</source>
-        <target>返回</target>
-      </trans-unit>
       <trans-unit id="s681e399d63311fba">
         <source>Show Gallery</source>
         <target>显示图库</target>

@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Prejdite nadol k "Pridať na domovskú obrazovku"`,
 'sa5ef80b4bb9b39f8': `Menej`,
 'sba52286c21552a4e': `Nainštalujte si ju na svoje zariadenie pre rozšírené využitie a jednoduchý prístup.`,
-'sc16e00a7a8b2fde2': `Späť`,
 'scdaf4bbff76674c8': `Pridať na domovskú obrazovku`,
 'se0e473adfda8066c': `Otvorte v hlavnom prehliadači`,
 'se740f75b95a51807': `Pridajte ju do Docku pre rozšírené využitie a jednoduchý prístup.`,

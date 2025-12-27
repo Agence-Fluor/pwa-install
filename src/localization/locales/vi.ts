@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Kéo đến mục "Thêm vào Màn hình chính"`,
 'sa5ef80b4bb9b39f8': `Thu gọn`,
 'sba52286c21552a4e': `Cài đặt trên thiết bị của bạn để có trải nghiệm phong phú hơn và truy cập dễ dàng.`,
-'sc16e00a7a8b2fde2': `Quay lại`,
 'scdaf4bbff76674c8': `Thêm vào màn hình chính`,
 'se0e473adfda8066c': `Mở trình duyệt chính của bạn`,
 'se740f75b95a51807': `Thêm nó vào Dock của bạn để có trải nghiệm toàn diện hơn và truy cập dễ dàng hơn.`,

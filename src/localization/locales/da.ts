@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Rul ned til "Tilføj til hjemmeskærm"`,
 'sa5ef80b4bb9b39f8': `Mindre`,
 'sba52286c21552a4e': `Installer den på din enhed for en bedre oplevelse og nem adgang.`,
-'sc16e00a7a8b2fde2': `Tilbage`,
 'scdaf4bbff76674c8': `Tilføj til hjemmeskærm`,
 'se0e473adfda8066c': `Åbn i din primære browser`,
 'se740f75b95a51807': `Tilføj den til din Dock for en bedre oplevelse og nem adgang.`,

@@ -54,10 +54,6 @@
   <source>Press More if no Share icon</source>
   <target>Naciśnij Więcej, jeśli brak ikony Udostępnij</target>
 </trans-unit>
-<trans-unit id="sc16e00a7a8b2fde2">
-  <source>Back</source>
-  <target>Wstecz</target>
-</trans-unit>
 <trans-unit id="s681e399d63311fba">
   <source>Show Gallery</source>
   <target>Pokaż galerię</target>

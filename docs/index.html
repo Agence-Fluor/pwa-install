@@ -141,7 +141,14 @@
 		// document.body.appendChild(pwaInstallEl);
     </script> -->
 
-	<pwa-install id="pwa-install" manifest-url="manifest.json"></pwa-install>
+	<pwa-install id="pwa-install" manifest-url="manifest.json"
+	
+	  	manifest-url="/manifest.json" 
+		name="Blinder"  
+		description="L'amour rend aveugle - pas vos données. Essayez notre application de chat sécurisée et rencontrez de futurs collègues ou votre âme soeur."
+		disable-close="true"
+		disable-install-description="true"
+	></pwa-install>
 
 	<script type="text/javascript">
 		var pwaInstall = document.getElementById("pwa-install");
@@ -231,6 +238,11 @@
 		pwaInstall.addEventListener('pwa-install-available-event', (event) => {logMessage(event.detail.message)});
 		pwaInstall.addEventListener('pwa-install-how-to-event', (event) => {logMessage(event.detail.message)});
 		pwaInstall.addEventListener('pwa-install-gallery-event', (event) => {logMessage(event.detail.message)});
+
+		setTimeout(() => {
+			forceStyle('apple-mobile')
+
+		}, 500);
 	</script>
 </body>
 

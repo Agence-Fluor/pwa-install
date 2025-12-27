@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Projděte dolů k "Přidat na plochu"`,
 'sa5ef80b4bb9b39f8': `Méně`,
 'sba52286c21552a4e': `Nainstalujte si jej na své zařízení pro rozšířené využití a snadný přístup.`,
-'sc16e00a7a8b2fde2': `Zpět`,
 'scdaf4bbff76674c8': `Přidat na plochu`,
 'se0e473adfda8066c': `Otevřete v hlavním prohlížeči`,
 'se740f75b95a51807': `Přidejte jej do svého Docku pro rozšířené využití a snadný přístup.`,

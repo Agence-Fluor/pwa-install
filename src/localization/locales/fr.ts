@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Faites défiler vers le bas jusqu'à "Ajouter à l'écran d'accueil"`,
 'sa5ef80b4bb9b39f8': `Moins`,
 'sba52286c21552a4e': `Installez-le sur votre appareil pour une expérience complète et un accès facile.`,
-'sc16e00a7a8b2fde2': `Retour`,
 'scdaf4bbff76674c8': `Ajouter à l'écran d'accueil`,
 'se0e473adfda8066c': `Ouvrir dans votre navigateur principal`,
 'se740f75b95a51807': `Ajoutez-le à votre Dock pour une expérience étendue et un accès facile.`,

@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Scrol omlaag en klik op "Zet op beginscherm"`,
 'sa5ef80b4bb9b39f8': `Minder`,
 'sba52286c21552a4e': `Installeer het op je apparaat voor een uitgebreide ervaring en gemakkelijke toegang.`,
-'sc16e00a7a8b2fde2': `Terug`,
 'scdaf4bbff76674c8': `Zet op beginscherm`,
 'se0e473adfda8066c': `Open in je hoofdbrowser`,
 'se740f75b95a51807': `Voeg het toe aan je Dock voor een uitgebreide ervaring en makkelijke toegang.`,

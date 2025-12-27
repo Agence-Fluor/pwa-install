@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Scrolla ner till "Lägg till på hemskärmen"`,
 'sa5ef80b4bb9b39f8': `Mindre`,
 'sba52286c21552a4e': `Installera den på din enhet för att få en bättre användarupplevelse och enklare åtkomst.`,
-'sc16e00a7a8b2fde2': `Tillbaka`,
 'scdaf4bbff76674c8': `Lägg till på hemskärmen`,
 'se0e473adfda8066c': `Öppna i din huvudsakliga webbläsare`,
 'se740f75b95a51807': `Lägg till i Dock för att få en bättre användarupplevelse och enklare åtkomst.`,

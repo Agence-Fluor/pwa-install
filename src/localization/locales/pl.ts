@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Przewiń w dół do opcji "Dodaj do Ekranu Głównego"`,
 'sa5ef80b4bb9b39f8': `Mniej`,
 'sba52286c21552a4e': `Zainstaluj na swoim urządzeniu, aby uzyskać bogate doświadczenie i łatwy dostęp.`,
-'sc16e00a7a8b2fde2': `Wstecz`,
 'scdaf4bbff76674c8': `Dodaj do Ekranu Głównego`,
 'se0e473adfda8066c': `Otwórz w swojej głównej przeglądarce`,
 'se740f75b95a51807': `Dodaj do swojego Docka, aby uzyskać bogate doświadczenie i łatwy dostęp.`,

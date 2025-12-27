@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Scorri verso il basso fino a "Aggiungi alla schermata principale"`,
 'sa5ef80b4bb9b39f8': `Meno`,
 'sba52286c21552a4e': `Installalo sul tuo dispositivo per un'esperienza più completa e un accesso facile.`,
-'sc16e00a7a8b2fde2': `Indietro`,
 'scdaf4bbff76674c8': `Aggiungi alla schermata principale`,
 'se0e473adfda8066c': `Apri nel tuo browser principale`,
 'se740f75b95a51807': `Aggiungilo al Dock per un'esperienza più completa e un accesso facile.`,

@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Rull ned til «Legg til på Hjem-skjerm»`,
 'sa5ef80b4bb9b39f8': `Mindre`,
 'sba52286c21552a4e': `Installer den på enheten din for å få en bedre brukeropplevelse og raskere tilgang.`,
-'sc16e00a7a8b2fde2': `Tilbake`,
 'scdaf4bbff76674c8': `Legg til på Hjem-skjerm`,
 'se0e473adfda8066c': `Åpne i hovednettleseren din`,
 'se740f75b95a51807': `Legg den til i Docken din for å få en bedre brukeropplevelse og raskere tilgang.`,

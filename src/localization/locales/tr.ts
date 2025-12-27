@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `"Ana Ekrana Ekle" seçeneğine kadar aşağı kaydırın`,
 'sa5ef80b4bb9b39f8': `Küçült`,
 'sba52286c21552a4e': `Daha iyi bir deneyim ve kolay erişim için cihazınıza yükleyin.`,
-'sc16e00a7a8b2fde2': `Geri`,
 'scdaf4bbff76674c8': `Ana Ekrana Ekle`,
 'se0e473adfda8066c': `Ana tarayıcınızda açın`,
 'se740f75b95a51807': `Daha iyi bir deneyim ve kolay erişim için Dock’a ekleyin.`,

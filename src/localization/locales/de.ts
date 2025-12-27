@@ -23,7 +23,6 @@
 's9af56bf005b49c74': `Scrollen Sie nach unten zu "Zum Startbildschirm hinzufügen"`,
 'sa5ef80b4bb9b39f8': `Weniger`,
 'sba52286c21552a4e': `Installieren Sie es auf Ihrem Gerät für eine umfassende Erfahrung und einen leichten Zugriff.`,
-'sc16e00a7a8b2fde2': `Zurück`,
 'scdaf4bbff76674c8': `Hinzufügen zum Startbildschirm`,
 'se0e473adfda8066c': `Öffnen Sie es in Ihrem Hauptbrowser`,
 'se740f75b95a51807': `Fügen Sie es zu Ihrem Dock hinzu, um eine umfassende Erfahrung und einen leichten Zugriff zu erhalten.`,
